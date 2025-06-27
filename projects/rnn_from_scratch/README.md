@@ -1,0 +1,1 @@
+Just following and implementing RNNs from [this paper](https://harashish-arora.github.io/RNNs.pdf)
